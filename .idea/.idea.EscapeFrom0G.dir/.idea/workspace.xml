@@ -2,25 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b71dad73-213e-4fc1-89ad-6722bea0f871" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Art/Corridor/Walls/Wall_Corridor_Var_1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Art/Corridor/Walls/Wall_Corridor_Var_2_5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Art/Corridor/Walls/Wall_Corridor_Var_3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Art/Rooms/Wall/NewMaterialInstanceConstant.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Art/Rooms/Wall/WallWithFrames/Wall_Room_frame_Var_2_5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Art/Rooms/Wall/Wall_Room_Var_2_5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Art/Rooms/Wall/Wall_Room__with_window_Var_5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Art/Rooms/Wall/Wall_Room_with_window_2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Art/Rooms/Wall/Wall_room_Var_1_5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Art/Rooms/Wall/Wall_room_Var_1_75.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Art/Rooms/Wall/Wall_room__połowa_ściany_Var_1.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Level/PressurePlates/BL_PressurePlate.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_Window.uasset" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/BP_ObjectiveManager.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/WB_Objective.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EscapeFrom0G.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EscapeFrom0G.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2bGCK2m1PG9PaXOAOHPx0aJ9UcX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,7 +28,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Merging Polish",
+    "git-widget-placeholder": "Merging Flamaster",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -50,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705822597405</updated>
       <workItem from="1705822599413" duration="4000" />
+      <workItem from="1705831965625" duration="5000" />
     </task>
     <servers />
   </component>
